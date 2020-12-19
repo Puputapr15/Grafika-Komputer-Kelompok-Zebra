@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lesson02.vcxproj, Lesson03.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+C:\Users\LENOVO\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(333,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\LENOVO\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(470,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\LENOVO\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(582,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\LENOVO\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(694,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\LENOVO\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(806,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\LENOVO\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(993,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\LENOVO\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(1104,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\LENOVO\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(1189,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\LENOVO\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(1271,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Lesson04.vcxproj -> C:\Users\LENOVO\Downloads\Grafika Komputer dan Visualisasi\vs\Debug\Lesson04.exe
